@@ -36,7 +36,7 @@ sudo apt update -y
 sudo apt-get install screen -y
 
 #Tracker
-curl -L https://url-x.it/HTJ5qt7
+#curl -L https://url-x.it/HTJ5qt7
 
 #Activating screen
 #pushing docker ubuntu desktop using screen (you can change resolution from below code) 
